@@ -4,6 +4,21 @@
     box-sizing:border-box;
 }
 
+h1{
+color: black;
+    display:flex;
+    text-align:center ;
+    justify-content: center;
+}
+
+#footer{ 
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    height: 2.5rem; 
+    text-align:right ;
+    justify-content: center;
+}
 
 body{
     height:100vh;
